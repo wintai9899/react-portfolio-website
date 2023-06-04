@@ -27,9 +27,8 @@ const About = () => {
             <article className='about_card'>
             <FaUserGraduate className='about_icon'/>
               <h5>Education</h5>
-              <small>Second Upper Class</small><br/>
               <small>University of Southampton</small><br/>
-              <small>Electroninc Engineering</small>
+              <small>BEng Electroninc Engineering</small>
               
             </article>
             <article className='about_card'>
